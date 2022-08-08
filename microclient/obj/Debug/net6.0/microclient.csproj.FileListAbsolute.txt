@@ -1,0 +1,15 @@
+C:\microservs\microclient\bin\Debug\net6.0\microclient.exe
+C:\microservs\microclient\bin\Debug\net6.0\microclient.deps.json
+C:\microservs\microclient\bin\Debug\net6.0\microclient.runtimeconfig.json
+C:\microservs\microclient\bin\Debug\net6.0\microclient.dll
+C:\microservs\microclient\bin\Debug\net6.0\microclient.pdb
+C:\microservs\microclient\obj\Debug\net6.0\microclient.csproj.AssemblyReference.cache
+C:\microservs\microclient\obj\Debug\net6.0\microclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\microservs\microclient\obj\Debug\net6.0\microclient.AssemblyInfoInputs.cache
+C:\microservs\microclient\obj\Debug\net6.0\microclient.AssemblyInfo.cs
+C:\microservs\microclient\obj\Debug\net6.0\microclient.csproj.CoreCompileInputs.cache
+C:\microservs\microclient\obj\Debug\net6.0\microclient.dll
+C:\microservs\microclient\obj\Debug\net6.0\refint\microclient.dll
+C:\microservs\microclient\obj\Debug\net6.0\microclient.pdb
+C:\microservs\microclient\obj\Debug\net6.0\microclient.genruntimeconfig.cache
+C:\microservs\microclient\obj\Debug\net6.0\ref\microclient.dll
